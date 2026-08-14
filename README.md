@@ -82,9 +82,8 @@ MLOps & Deployment
 - Learn Deep Learning, NLP, Computer Vision and GenAI
 - Gain practical experience through internships
 - Become a skilled AI/ML Engineer
-```
 
----
+  
 
 ## 💻 Featured Projects
 

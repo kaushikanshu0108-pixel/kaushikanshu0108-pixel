@@ -138,13 +138,6 @@ I'm currently building my fundamentals before moving into more advanced ML proje
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushikanshu0108-pixel&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikanshu0108-pixel&layout=compact&hide_border=true)
-
----
 
 ## 🤝 Connect With Me
 

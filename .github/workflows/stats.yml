@@ -18,11 +18,12 @@ jobs:
 
       - name: Generate GitHub Stats
         uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
-          path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+       with:
+         card: stats
+         options: username=${{ github.repository_owner }}&show_icons=true&hide_rank=true&count_private=false&include_all_commits=false
+         path: profile/stats.svg
+         token: ${{ secrets.GITHUB_TOKEN }}
+         fail_on_error: true
 
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2

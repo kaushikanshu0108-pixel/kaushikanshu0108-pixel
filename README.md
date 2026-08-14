@@ -138,6 +138,12 @@ I'm currently building my fundamentals before moving into more advanced ML proje
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Stats](./profile/stats.svg)
+
+![Top Languages](./profile/top-langs.svg)
+
 
 ## 🤝 Connect With Me
 

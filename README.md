@@ -102,6 +102,7 @@ A web-based smart event dashboard developed to help users discover, manage, and 
 **Tech:** HTML, CSS, JavaScript
 
 🔗https://github.com/kaushikanshu0108-pixel/Smart-event-dashboard
+
 deployment link  https://kaushikanshu0108-pixel.github.io/Smart-event-dashboard/
 
 ### 📊 Data Analysis Projects
@@ -112,6 +113,7 @@ Projects focused on learning data cleaning, analysis, visualization and extracti
 
 🔗 
 weather data visualizer : https://github.com/kaushikanshu0108-pixel/weather-data-visualizer-Anshu_Kaushik
+
 campus energy dashboard : https://github.com/kaushikanshu0108-pixel/campus-energy-dashboard-Anshu_Kaushik
 
 ### 🤖 Machine Learning Projects
